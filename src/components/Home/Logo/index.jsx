@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { Timeline, Tween } from 'react-gsap';
-import LogoS from '../../../assets/images/logo-s.jpg';
+import LogoS from '../../../assets/images/logo-s2.png';
 import './index.scss';
 
 const Logo = () => {
